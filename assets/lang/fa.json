@@ -1,0 +1,28 @@
+{
+    "head_title": "درود این یک متن آزمایشی است",
+    "app_bar_title": "جاده ابریشم",
+    "Login": "ورود",
+    "UserNotFound": "کاربری با این مشخصات یافت نشد",
+    "Username": "ورود",
+    "Password": "رمز عبور",
+    "UserNameNotValid": "نام کاربری معتبر نمی باشد",
+    "PassWordNotValid": "رمز عبور معتبر نمی باشد",
+    "Register": "ثبت نام",
+    "NameNotValid": "نام معتبر نیست",
+    "emailNotValid": "ایمیل معتبر نیست",
+    "mobileNotValid": "موبایل معتبر نیست",
+    "email": "ایمیل",
+    "mobile": "موبایل",
+    "name": "نام",
+    "Error": "مشکلی رخ داده است دوباره تلاش کنید",
+    "changeLanguage": "تغییر زبان",
+    "changeTheme": "تغییر تم",
+    "persian": "فارسی",
+    "english": "انگلیسی",
+    "dark": "تیره",
+    "light": "روشن",
+    "CustomerRegister": "ثبت نام مالک"
+
+
+
+}

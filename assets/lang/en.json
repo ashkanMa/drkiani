@@ -1,0 +1,28 @@
+{
+    "head_title": "Hello, this is a translated text.",
+    "app_bar_title": "Silk Road",
+    "Login": "Login",
+    "UserNotFound": "UserNotFound",
+    "Username": "Username",
+    "Password": "Password",
+    "UserNameNotValid": "Username not valid",
+    "PassWordNotValid": "PassWord not valid",
+    "Register": "Register",
+    "NameNotValid": "name not valid",
+    "emailNotValid": "email not valid",
+    "mobileNotValid": "mobile not valid",
+    "email": "email",
+    "mobile": "mobile",
+    "name": "name",
+    "Error": "Register Failed Try again",
+    "changeLanguage": "Change Language",
+    "changeTheme": "Change theme",
+    "persian": "persian",
+    "english": "english",
+    "dark": "dark",
+    "light": "light",
+    "CustomerRegister": "CustomerRegister"
+
+
+
+}
